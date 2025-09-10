@@ -1,0 +1,16 @@
+========== PAYSLIP ==========
+Employee ID: 3
+Name: Bob Johnson
+Department: Operations
+Position: Consultant
+Pay Period: 6/2025
+Bank Account: ACC987654
+-----------------------------
+Gross Salary: $5000.00
+Bonus: $0.00
+Tax: $0.00
+PF Deduction: $600.00
+Other Deductions: $0.00
+Total Deductions: $600.00
+Net Salary: $4400.00
+=============================
